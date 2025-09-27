@@ -3,6 +3,7 @@ params:
 metrics:
 - linear_regression/metrics.json
 plots:
+- dvclive/plots/images
 - linear_regression/plots/metrics:
     x: step
 artifacts:
