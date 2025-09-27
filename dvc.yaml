@@ -5,6 +5,7 @@ metrics:
 plots:
 - linear_regression/plots/metrics:
     x: step
+- dvclive/plots/images
 artifacts:
   flightprices:
     path: data/airline_price_data.csv
